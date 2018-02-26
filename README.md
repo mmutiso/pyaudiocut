@@ -23,7 +23,7 @@ I am on a windows machine so, keep that in mind.
 
 1. Download libav from http://builds.libav.org/windows/release-gpl/libav-11.3-win64.7z
 
-2. Extract libav and add the bin directory to path
+2. Extract libav and add the bin directory path to the PATH environment variable.
 
 3. pip install pydub
 
